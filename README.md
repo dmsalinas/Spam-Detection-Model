@@ -1,6 +1,7 @@
 # Spam-Detection-Model
 
 # GOAL
+The task involves working at an Internet Service Provider (ISP) to enhance the email filtering system by developing a supervised machine learning model for accurately detecting spam emails. The provided dataset includes information on emails categorized as spam and not spam. The goal is to create and evaluate two classification models—logistic regression and random forest—to determine which one is more effective in identifying and filtering out spam emails from customers' inboxes.
 
 # REQUIREMENTS
 
