@@ -7,7 +7,7 @@ The task involves working at an Internet Service Provider (ISP) to enhance the e
 - Operating system :  Windows 10 OS or Mac OS
 - Platform : Python 3.12, Jupyter_lab, or Visual Studio Code 
   
-# Below moducles are needed to run complete analyses:
+# Below modules are needed to run complete analyses:
 - Pandas
 - Sklearn.metrics
 - 
