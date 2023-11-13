@@ -7,8 +7,8 @@
 # Below moducles are needed to run complete analyses:
 
 - Pandas
-- Pandas_datareader
-- Numpy
+- Sklearn.metrics
+- 
 
 
 # CSV Reference
