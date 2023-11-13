@@ -11,10 +11,11 @@
 - Numpy
 
 
-# API REFERENCE
+# CSV Reference
+https://static.bc-edx.com/mbc/ai/m4/datasets/spam-data.csv
 
 # Installation
-Download the repo at link:  by clicking 'Code' tab -> 'Download Zip'
+Download the repo at link: https://github.com/dmsalinas/Spam-Detection-Model by clicking 'Code' tab -> 'Download Zip'
 
 
 
