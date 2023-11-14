@@ -5,7 +5,7 @@ The task involves working at an Internet Service Provider (ISP) to enhance the e
 
 # Requirements
 - Operating system :  Windows 10 OS or Mac OS
-- Platform : Python 3.12, Jupyter_lab, or Visual Studio Code 
+- Platform : Python 3.12, Jupyter Notebook, or Visual Studio Code 
   
 # The following imports are needed to run the complete analyses:
 - pandas
